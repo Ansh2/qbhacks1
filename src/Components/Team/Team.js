@@ -27,7 +27,7 @@ export default class Team extends React.Component {
                     }
                     size={"small"}
                     image={Rohan}
-                    name={"Rohan Deshpande"}
+                    name={"Vishal Kanala"}
                     role1={"President & Founder"}
                     role2={"Director of Technology"}
                     role3={"Website Developer"}
