@@ -1,3 +1,2 @@
-Website was created by Rohan Deshpande and Nabeel Ahmed for QBHacks 2019.
-Single Page Application created purely in React.js
+Website was relaunched by Ansh Tandon purely through React.js
 
