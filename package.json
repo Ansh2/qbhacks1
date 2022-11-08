@@ -2,7 +2,7 @@
   "name": "qbhacks",
   "homepage": "https://ansh2.github.io/qbhacks1/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
