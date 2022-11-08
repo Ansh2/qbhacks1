@@ -1,7 +1,7 @@
 {
-  "name": "montyhack",
-  "version": "0.1.0",
+  "name": "qbhacks",
   "homepage": "https://ansh2.gihub.io/qbhacks1/",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
