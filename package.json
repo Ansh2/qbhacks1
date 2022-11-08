@@ -2,7 +2,7 @@
   "name": "montyhack",
   "version": "0.1.0",
   "homepage": "https://ansh2.github.io/",
-  "private": false,
+  "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
