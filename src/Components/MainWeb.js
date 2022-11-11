@@ -14,6 +14,7 @@ export default class MainWeb extends React.Component
 {
     render()
     {
+        console.log('RENDERING!!!!!!!!!')
         return(
             <div className={"contain_all"}>
                 <NavBar/>
