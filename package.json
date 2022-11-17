@@ -1,6 +1,9 @@
 {
   "name": "montyhack",
   "version": "0.1.0",
+  "engines": {
+    "node": "6.11.1"
+  }
   "homepage": "https://Ansh2.github.io/qbhacks1",
   "private": true,
   "dependencies": {
