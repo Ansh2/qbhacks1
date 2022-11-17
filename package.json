@@ -4,7 +4,6 @@
   "engines": {
     "node": "6.11.1"
   },
-  "homepage": "https://qbhacks1.herokuapp.com/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
