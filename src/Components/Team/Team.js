@@ -11,6 +11,8 @@ import Naab from "./people/nabeel.jpg";
 import Krish from "./people/krish.jpg";
 import Ansh from "./people/ansh1.png";
 import Vishal from "./people/vishal1.png";
+import Advitiya from "./people/advitiya.png"; 
+
 export default class Team extends React.Component {
   render() {
     return (
@@ -72,8 +74,8 @@ export default class Team extends React.Component {
                 <Grid.Column>
                   <Person
                     size={"small"}
-                    name={"Rajin Sutradhar"}
-                    image={Naab}
+                    name={"Advitiya Jadhav"}
+                    image={Advitiya}
                     link={"https://www.linkedin.com/in/nabeel-ahmed-773b78188/"}
                     role1={"Director of Technology"}
                   ></Person>
@@ -82,7 +84,7 @@ export default class Team extends React.Component {
                   <Person
                     size={"small"}
                     image={Daniel}
-                    name={"Advitiya Jadhav"}
+                    name={"Rajin Sutradhar"}
                     role1={"Director of Finance"}
                     link={
                       "https://www.linkedin.com/in/daniel-baumgartner-93b6a8192/"
