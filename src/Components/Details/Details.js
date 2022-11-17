@@ -16,12 +16,12 @@ export default class About extends React.Component {
             <Fade Botton>
             <Grid.Row>
               
-              <Header className={"details-text"}>Date: December 1, 2019</Header>
+              <Header className={"details-text"}>Date: January 7 - 8, 2023</Header>
            
             </Grid.Row>
             <Grid.Row>
             
-              <Header className={"details-text"} >Time: 8am - 8pm </Header>
+              <Header className={"details-text"} >Time: 9:00am Saturday - 12:00pm Sunday </Header>
             
             </Grid.Row>
             <Grid.Row>
