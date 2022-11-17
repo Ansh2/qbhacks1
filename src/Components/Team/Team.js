@@ -45,9 +45,8 @@ export default class Team extends React.Component {
                     size={"small"}
                     image={Ansh}
                     name={"Ansh Tandon"}
-                    role1={"Organizer"}
-                    role2={"Director of Logistics"}
-                    role3={"Website Developer"}
+                    role1={"Director of Logistics"}
+                    role2={"Website Developer"}
                     link={
                       "https://www.linkedin.com/in/vishal-kanala-287b731b0/"
                     }
@@ -61,8 +60,7 @@ export default class Team extends React.Component {
                     size={"small"}
                     name={"Vishnu Yelimeli"}
                     image={Darshil}
-                    role1={"Organizer"}
-                    role2={"Director of Outreach"}
+                    role1={"Director of Outreach"}
                     link={
                       "https://www.linkedin.com/in/darshil-patel-62aa38194/"
                     }
@@ -77,8 +75,7 @@ export default class Team extends React.Component {
                     name={"Rajin Sutradhar"}
                     image={Naab}
                     link={"https://www.linkedin.com/in/nabeel-ahmed-773b78188/"}
-                    role1={"Organizer"}
-                    role2={"Director of Technology"}
+                    role1={"Director of Technology"}
                   ></Person>
                 </Grid.Column>
                 <Grid.Column>
@@ -86,8 +83,7 @@ export default class Team extends React.Component {
                     size={"small"}
                     image={Daniel}
                     name={"Advitiya Jadhav"}
-                    role1={"Organizer"}
-                    role2={"Director of Finance"}
+                    role1={"Director of Finance"}
                     link={
                       "https://www.linkedin.com/in/daniel-baumgartner-93b6a8192/"
                     }
@@ -98,8 +94,7 @@ export default class Team extends React.Component {
                     size={"small"}
                     name={"Lingesh Ranjith"}
                     image={Jinal}
-                    role1={"Organizer"}
-                    role2={"Workshop Coordinator"}
+                    role1={"Workshop Coordinator"}
                     link={"https://www.linkedin.com/in/jinalshah2002/"}
                   ></Person>
                 </Grid.Column>
