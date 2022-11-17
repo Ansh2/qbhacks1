@@ -33,7 +33,7 @@ export default class HomePage extends React.Component {
                   </Grid.Row>
 
                   <Grid.Row>
-                    <Header className={"date"}>December 1, 2019</Header>
+                    <Header className={"date"}>January 7, 2023</Header>
                   </Grid.Row>
                   <Grid.Row>
                     <div className={"reg-button-contain"}>
