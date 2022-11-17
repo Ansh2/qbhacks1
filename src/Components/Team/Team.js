@@ -9,6 +9,7 @@ import Darshil from "./people/darshil-new.jpg";
 import Aarav from "./people/aarav-small.png";
 import Naab from "./people/nabeel.jpg";
 import Krish from "./people/krish.jpg";
+import Ansh from "./people/Ansh2.jpeg";
 export default class Team extends React.Component {
   render() {
     return (
@@ -41,7 +42,7 @@ export default class Team extends React.Component {
                       "https://react.semantic-ui.com/images/wireframe/square-image.png"
                     }
                     size={"small"}
-                    image={Aarav}
+                    image={Ansh}
                     name={"Ansh Tandon"}
                     role1={"Organizer"}
                     role2={"Director of Logistics"}
@@ -57,10 +58,10 @@ export default class Team extends React.Component {
                       "https://react.semantic-ui.com/images/wireframe/square-image.png"
                     }
                     size={"small"}
-                    name={"Darshil Patel"}
+                    name={"Vishnu Yelimeli"}
                     image={Darshil}
                     role1={"Organizer"}
-                    role2={"Director of Marketing"}
+                    role2={"Director of Outreach"}
                     link={
                       "https://www.linkedin.com/in/darshil-patel-62aa38194/"
                     }
@@ -72,18 +73,18 @@ export default class Team extends React.Component {
                 <Grid.Column>
                   <Person
                     size={"small"}
-                    name={"Nabeel Ahmed"}
+                    name={"Rajin Sutradhar"}
                     image={Naab}
                     link={"https://www.linkedin.com/in/nabeel-ahmed-773b78188/"}
                     role1={"Organizer"}
-                    role2={"Director of UX/UI Design"}
+                    role2={"Director of Technology"}
                   ></Person>
                 </Grid.Column>
                 <Grid.Column>
                   <Person
                     size={"small"}
                     image={Daniel}
-                    name={"Daniel Baumgartner"}
+                    name={"Advitiya Jadhav"}
                     role1={"Organizer"}
                     role2={"Director of Finance"}
                     link={
@@ -94,7 +95,7 @@ export default class Team extends React.Component {
                 <Grid.Column>
                   <Person
                     size={"small"}
-                    name={"Jinal Shah"}
+                    name={"Lingesh Ranjith"}
                     image={Jinal}
                     role1={"Organizer"}
                     role2={"Workshop Coordinator"}
