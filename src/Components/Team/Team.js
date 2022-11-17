@@ -27,10 +27,8 @@ export default class Team extends React.Component {
                     }
                     size={"small"}
                     image={Rohan}
-                    name={"Rohan Deshpande"}
-                    role1={"President & Founder"}
-                    role2={"Director of Technology"}
-                    role3={"Website Developer"}
+                    name={"Vishal Kanala"}
+                    role1={"President"}
                     link={
                       "https://www.linkedin.com/in/rohan-deshpande-994b23160/"
                     }
@@ -44,11 +42,12 @@ export default class Team extends React.Component {
                     }
                     size={"small"}
                     image={Aarav}
-                    name={"Aaravsinh Solanki"}
+                    name={"Ansh Tandon"}
                     role1={"Organizer"}
                     role2={"Director of Logistics"}
+                    role3={"Website Developer"}
                     link={
-                      "https://www.linkedin.com/in/aaravsinh-solanki-652319195/"
+                      "https://www.linkedin.com/in/vishal-kanala-287b731b0/"
                     }
                   ></Person>
                 </Grid.Column>
