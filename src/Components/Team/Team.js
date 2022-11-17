@@ -9,7 +9,8 @@ import Darshil from "./people/darshil-new.jpg";
 import Aarav from "./people/aarav-small.png";
 import Naab from "./people/nabeel.jpg";
 import Krish from "./people/krish.jpg";
-import Ansh from "./people/Ansh2.jpeg";
+import Ansh from "./people/ansh1.png";
+import Vishal from "./people/vishal1.png";
 export default class Team extends React.Component {
   render() {
     return (
@@ -27,7 +28,7 @@ export default class Team extends React.Component {
                       "https://react.semantic-ui.com/images/wireframe/square-image.png"
                     }
                     size={"small"}
-                    image={Rohan}
+                    image={Vishal}
                     name={"Vishal Kanala"}
                     role1={"President"}
                     link={
