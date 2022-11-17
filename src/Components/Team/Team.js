@@ -5,7 +5,7 @@ import Person from "./Person";
 import Daniel from "./people/logo.png";
 import Jinal from "./people/logo.png";
 import Rohan from "./people/rohan-small.png";
-import Darshil from "./people/logo.jpg";
+import Darshil from "./people/logo.png";
 import Aarav from "./people/aarav-small.png";
 import Naab from "./people/nabeel.jpg";
 import Krish from "./people/krish.jpg";
