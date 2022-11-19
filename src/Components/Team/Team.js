@@ -9,7 +9,7 @@ import Darshil from "./people/logoxx.png";
 import Aarav from "./people/aarav-small.png";
 import Naab from "./people/nabeel.jpg";
 import Krish from "./people/krish.jpg";
-import Ansh from "./people/ansh1.png";
+import Ansh from "./people/Ansh.png";
 import Vishal from "./people/vishal1.png";
 import Advitiya from "./people/advitiya.png"; 
 
