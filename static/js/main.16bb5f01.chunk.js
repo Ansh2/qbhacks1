@@ -69,16 +69,16 @@
       e.exports = t.p + "static/media/jinal-small.cdb8d017.png";
     },
     167: function (e, a, t) {
-      e.exports = t.p + "static/media/rohan-small.e8d8fa23.png";
+      e.exports = t.p + "static/media/vishal1.png";
     },
     168: function (e, a, t) {
       e.exports = t.p + "static/media/darshil-new.fc38bd5f.jpg";
     },
     169: function (e, a, t) {
-      e.exports = t.p + "static/media/aarav-small.9965263f.png";
+      e.exports = t.p + "static/media/Ansh.png";
     },
     170: function (e, a, t) {
-      e.exports = t.p + "static/media/nabeel.18356525.jpg";
+      e.exports = t.p + "static/media/advitiya.jpg";
     },
     179: function (e, a, t) {
       e.exports = t(336);
@@ -299,7 +299,7 @@
                                   r.a.createElement(
                                     d.a,
                                     { className: "date" },
-                                    "December 1, 2019"
+                                    "February 18 - 19, 2023"
                                   )
                                 ),
                                 r.a.createElement(
@@ -312,7 +312,7 @@
                                       g.a,
                                       {
                                         target: "blank",
-                                        href: "https://rohandeshpande725226.typeform.com/to/M4XEyz",
+                                        href: "https://forms.gle/XCtDAz4tbWhFUuWn9",
                                         className: "reg-button",
                                       },
                                       "Register"
@@ -436,7 +436,7 @@
                                 r.a.createElement(
                                   d.a,
                                   { className: "details-text" },
-                                  "Date: December 1, 2019"
+                                  "Date: February 2023"
                                 )
                               ),
                               r.a.createElement(
@@ -445,7 +445,7 @@
                                 r.a.createElement(
                                   d.a,
                                   { className: "details-text" },
-                                  "Time: 8am - 8pm "
+                                  "Time: Saturday 9am - Sunday 6pm"
                                 )
                               ),
                               r.a.createElement(
@@ -454,7 +454,7 @@
                                 r.a.createElement(
                                   d.a,
                                   { className: "details-text" },
-                                  "Location: 4044 Quakerbridge Rd, Mercerville, NJ 08619"
+                                  "Location: Virtual OR 4044 Quakerbridge Rd, Mercerville, NJ 08619"
                                 )
                               ),
                               r.a.createElement(
@@ -963,7 +963,7 @@
                 value: function () {
                   return r.a.createElement(
                     "section",
-                    { id: "Sponsors" },
+                    { id: "Our Previous Sponsors" },
                     r.a.createElement(
                       "div",
                       { className: "Sponsorspage container" },
@@ -991,8 +991,8 @@
                           " ",
                           r.a.createElement(
                             "a",
-                            { href: "mailto:sponsor@qbhacks.org" },
-                            "sponsor@qbhacks.org"
+                            { href: "mailto:team.qbhacks@gmail.com" },
+                            "team.qbhacks@gmail.com"
                           ),
                           r.a.createElement(
                             "div",
@@ -1978,7 +1978,7 @@
                               {
                                 rel: "noopener noreferrer",
                                 target: "_blank",
-                                href: "https://discord.gg/gnK2mzV",
+                                href: "https://discord.gg/xb5BN6WExZ",
                               },
                               r.a.createElement(he.a, {
                                 size: "huge",
@@ -2016,8 +2016,8 @@
                               " ",
                               r.a.createElement(
                                 "a",
-                                { href: "mailto:contact@qbhacks.org" },
-                                "contact@qbhacks.org"
+                                { href: "mailto:team.qbhacks@gmail.com" },
+                                "team.qbhacks@gmail.com"
                               )
                             )
                           ),
@@ -2027,7 +2027,7 @@
                             r.a.createElement(
                               "summary",
                               null,
-                              "\xa9 QuakerBridgeHacks 2019. All Rights Reserved."
+                              "\xa9 QuakerBridgeHacks 2023. All Rights Reserved."
                             ),
                             r.a.createElement(
                               "p",
@@ -2038,9 +2038,9 @@
                                 {
                                   rel: "noopener noreferrer",
                                   target: "_blank",
-                                  href: "https://www.linkedin.com/in/rohan-deshpande-994b23160/",
+                                  href: "https://www.linkedin.com/company/qbhacks/?viewAsMember=true&original_referer=",
                                 },
-                                "Rohan Deshpande"
+                                "QBHacks Team"
                               ),
                               ". All Rights Reserved."
                             )
